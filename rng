@@ -1,0 +1,3 @@
+double e;
+std::cout << rng( e )        << "\n";
+std::cout << rng( double() ) << "\n";
